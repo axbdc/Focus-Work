@@ -1,0 +1,15 @@
+{
+  "short_name": "FocusWork",
+  "name": "Focus Work App",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2098/2098402.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
